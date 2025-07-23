@@ -1,0 +1,5 @@
+{
+  "name": "Yahtzee Scorekeeper",
+  "description": "An online scoresheet for the dice game Yahtzee. This application allows 1 to 6 players to easily keep track of their scores, with automatic calculations for sums, bonuses, and totals, eliminating the need for paper and manual counting.",
+  "requestFramePermissions": []
+}
